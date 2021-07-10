@@ -1,0 +1,12 @@
+{
+  "name": "crypto-tracker-react-native",
+  "displayName": "crypto-tracker-react-native",
+  "expo": {
+    "name": "crypto-tracker-react-native",
+    "slug": "crypto-tracker-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
